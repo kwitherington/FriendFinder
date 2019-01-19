@@ -16,6 +16,38 @@ var friends = [
             "5",
             "1"
         ]
+    },
+    {
+        "name": "Egg",
+        "photo": "https://cdn.vox-cdn.com/thumbor/TGJMIRrhzSrTu1oEHUCVrizhYn0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13689000/instagram_egg.jpg",
+        "scores": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    {
+        "name": "Rand",
+        "photo": "https://pbs.twimg.com/media/DdkkqQfU8AENfM2.jpg",
+        "scores": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+        ]
     }
 ]
 
