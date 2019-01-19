@@ -3,37 +3,20 @@
 var friends = [
     {
         "name": "Kellam",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        "photo": "https://scontent.faus1-1.fna.fbcdn.net/v/t1.0-9/49429036_10155750414940843_6090041146422067200_n.jpg?_nc_cat=100&_nc_ht=scontent.faus1-1.fna&oh=ecf24f80dd8883ac783bbd47f5344d5c&oe=5CBFF861",
         "scores": [
             "5",
-            "1",
-            "4",
-            "4",
+            "5",
             "5",
             "1",
-            "2",
-            "5",
             "4",
+            "1",
+            "1",
+            "5",
+            "5",
             "1"
         ]
-    },
-    {
-        "name": "Katie",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        "scores": [
-            "4",
-            "2",
-            "5",
-            "1",
-            "3",
-            "2",
-            "2",
-            "1",
-            "3",
-            "2"
-        ]
-    },
-
+    }
 ]
 
 // make the date reachable using require
